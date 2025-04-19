@@ -1,56 +1,50 @@
-# Hi, I’m Rauf 👋
-
-Welcome to my GitHub profile! I’m on a journey from **Stage 0 SOC Analyst** to **cloud security & infrastructure specialist**, building labs, SOPs, and scripts along the way.
-
----
-
-## 🧑‍💻 About Me
-- **Current Focus:** SOC Analyst path (SC-200, Microsoft Sentinel, Defender)  
-- **Mission:** Launch a remote-first cloud business offering Tier 3 retainer services.  
-- **Environment:** macOS M1, Ubuntu VM, Pop!_OS mini PC lab with multi-VM setups.  
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binarysec-lab&show_icons=true&theme=radical)
-
-## 🚀 What I’m Working On
-- 🔒 Hands-on labs for Microsoft Sentinel: data connectors, analytics rules, KQL hunting queries.  
-- 📑 Reusable SOPs in Markdown for onboarding and incident response.  
-- ⚙️ Python scripts for alert enrichment using Microsoft Graph API.
-
-## 🌱 I’m Currently Learning
-- Advanced KQL patterns and hunting methodologies.  
-- Automating Azure Sentinel deployments with Terraform & Azure CLI.  
-- Cloud infrastructure: networking, micro-segmentation, IaC in Azure.
-
-## 📄 Certifications & Achievements
-
-- **AWS Certified Solutions Architect** – Amazon Web Services  
-- **AWS Certified Cloud Practitioner** – Amazon Web Services  
-- **Microsoft 365 Certified: Fundamentals (MS-900)** – Microsoft  
-- **Google IT Support Professional Certificate** – Google  
-- **SC-200: Microsoft Security Operations Analyst** – Microsoft  
-- **AZ-900: Microsoft Azure Fundamentals** – Microsoft  
-
-
-## 💬 Ask Me About
-- KQL and Sentinel rule authoring.  
-- Building resilient SOC labs.  
-- GitHub Actions for CI/CD of infrastructure & SOP docs.
-
-## 📫 How to Reach Me
-- 🌐 [binarylink.github.io](https://binarylink.github.io)  
-- ✉️ <binarysec.lab@protonmail.com>
-- ✉️ <rauf.babajanov@icloud.com>
-- 🔗 https://www.linkedin.com/in/raufbabajanov/
+# Hi, I’m Rauf 👋  
+IT Support Specialist (2 yrs) leveling up to become a **Cloud Security & Infrastructure Specialist**.
 
 ---
 
-> “Building labs, one script at a time.”
+## 🔄 What I’m Doing Now
+- 🚀 Launching my personal GitHub Pages site [`<you>.github.io`](https://<you>.github.io) with sections for Progress, Labs, Certifications, and Links  
+- 🛠️ Building a hybrid lab (macOS host → Ubuntu VM → Pop !_OS mini‑PC) to test Microsoft 365, Defender, and Sentinel  
 
-<!--
-Pinned repos and projects are shown below your README. Use GitHub’s pin feature to curate:
-- binarylink.github.io (your site)
-- cloud-soc-lab
-- sop-automation
--->
+---
+
+## 🛣️ Professional Growth Roadmap
+
+| Phase | Duration | Focus | Key Deliverables |
+|:----:|:--------:|-------|------------------|
+| **0** | 1 wk  | Portfolio & Lab Environment | Site live (`<you>.github.io`) · “Lab Setup” SOP + blog post |
+| **1** | 2 wks | Linux & Networking Foundations | Hardened Ubuntu · Syslog → SIEM · Packet‑analysis write‑up |
+| **2** | 2 wks | Microsoft 365 & Defender Security | Defender policies · Phishing simulation · Sentinel connector SOP |
+| **3** | 3 wks | Azure Sentinel SIEM **+ SC‑200** | Workspace · 10 KQL hunts · Incident runbook · SC‑200 exam & recap blog |
+| **4** | 2 wks | Automation & IaC | Python/Graph scripts · Terraform modules · CI/CD pipeline · “Sentinel Automator” repo |
+
+---
+
+## 🌱 What I’m Learning Next
+- MITRE ATT&CK‑based threat hunting  
+- Automated remediation with Python & Microsoft Graph API  
+- Infrastructure‑as‑Code patterns for secure Azure deployments  
+
+---
+
+## 💬 Ask Me About
+- Transitioning from IT support to security engineering  
+- Building reusable labs & SOP templates  
+- Automating Sentinel deployments with CI/CD  
+
+---
+
+## 🏆 Certifications & Milestones
+- **AWS Certified Solutions Architect** – AWS  
+- **AWS Certified Cloud Practitioner** – AWS  
+- **Microsoft 365 Certified: Fundamentals (MS‑900)** – Microsoft  
+- **SC‑200: Microsoft Security Operations Analyst** – *scheduled after Phase 3*  
+
+---
+
+## 📫 Connect
+[Website](https://<you>.github.io) • [LinkedIn](https://www.linkedin.com/in/raufbabajanov/) • <rauf.babajanov@icloud.com>
+
+> *Evolving from IT support to cloud security—one lab at a time.*
 
