@@ -1,4 +1,4 @@
-# Hi, I’m **<Rauf>** 👋
+# Hi, I’m Rauf 👋
 
 Welcome to my GitHub profile! I’m on a journey from **Stage 0 SOC Analyst** to **cloud security & infrastructure specialist**, building labs, SOPs, and scripts along the way.
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m on a journey from **Stage 0 SOC Analyst** to
 - **Environment:** macOS M1, Ubuntu VM, Pop!_OS mini PC lab with multi-VM setups.  
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<binarysec-lab>&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binarysec-lab&show_icons=true&theme=radical)
 
 ## 🚀 What I’m Working On
 - 🔒 Hands-on labs for Microsoft Sentinel: data connectors, analytics rules, KQL hunting queries.  
