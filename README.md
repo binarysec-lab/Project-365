@@ -11,40 +11,36 @@
 ![Learning](https://img.shields.io/badge/Learning%20In%20Progress-FFA500?style=for-the-badge&logo=readthedocs)
 ![VPN](https://img.shields.io/badge/VPN-Remote%20Access-0066CC?style=for-the-badge&logo=wireguard)
 
-
-
 ---
 
 ## 🎯 Focus Areas
 
-- 📱 Device Enrollment and Endpoint Management (Microsoft Intune, Entra ID)
-- 🌐 Remote Access and VPN Infrastructure
-- 🛡️ Compliance, Configuration, and Device Security Policies
-- 📚 Continuous Professional Development aligned with MD-102 certification
+- 🖥️ **Device Enrollment and Endpoint Management** (Microsoft Intune, Entra ID)
+- 🌐 **Remote Access and VPN Infrastructure**
+- 🔒 **Compliance, Configuration, and Device Security Policies**
+- 📚 **Continuous Professional Development aligned with MD-102 certification**
 
 ---
 
 ## 🗂️ Project Structure
 
 | Folder | Description |
-|:---|:---|
+|:-------|:------------|
 | **01-Endpoint-Enrollment-SOP** | 📋 Standard operating procedures for onboarding devices. |
-| **02-Intune-Policy-Deployment** | 🛠️ Policy management and configuration deployment workflows. |
-| **03-Network-Connectivity** | 🌍 VPN and RDP remote management setups. |
-| **04-MD-102-Study-Notes** | 🎓 Key technical concepts for Microsoft certification and professional growth. |
+| **02-Intune-Policy-Deployment** | ⚙️ Policy management and configuration deployment workflows. |
+| **03-Network-Connectivity** | 🌐 VPN and RDP remote management setups. |
+| **04-MD-102-Study-Notes** | 📚 Key technical concepts for Microsoft certification and professional growth. |
 
 ---
 
-## 🛡 About This Project
+## 🧩 About This Project
 
 <br>
 Project 365 reflects ongoing real-world work in Microsoft 365 ecosystems, documenting both operational practices and professional development activities.
 
 <br>
 
-<p align="center">
-  <strong>Committed to operational excellence and continuous improvement 🚀</strong>
-</p>
+**<div align="center">Committed to operational excellence and continuous improvement 🚀</div>**
 
 ---
 
