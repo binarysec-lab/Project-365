@@ -2,7 +2,16 @@
 
 > **Professional documentation and operational projects related to Microsoft 365 cloud administration.**
 
-[![Microsoft 365 Admin](https://img.shields.io/badge/Focus-Microsoft%20365-blue)](https://www.microsoft.com/microsoft-365)
+---
+
+![M365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft)
+![Cloud](https://img.shields.io/badge/Cloud-Enabled-00C7B7?style=for-the-badge&logo=icloud)
+![Endpoint](https://img.shields.io/badge/Endpoint%20Management-4CAF50?style=for-the-badge&logo=devicehub)
+![SysAdmin](https://img.shields.io/badge/System%20Administration-006400?style=for-the-badge&logo=windows)
+![Learning](https://img.shields.io/badge/Learning%20In%20Progress-FFA500?style=for-the-badge&logo=readthedocs)
+![VPN](https://img.shields.io/badge/VPN-Remote%20Access-0066CC?style=for-the-badge&logo=wireguard)
+
+
 
 ---
 
@@ -28,7 +37,14 @@
 
 ## 🛡 About This Project
 
-Project 365 reflects ongoing real-world work in Microsoft 365 ecosystems, documenting both operational practices and professional development activities.  
-Committed to operational excellence and continuous improvement. 🚀
+<br>
+Project 365 reflects ongoing real-world work in Microsoft 365 ecosystems, documenting both operational practices and professional development activities.
+
+<br>
+
+<p align="center">
+  <strong>Committed to operational excellence and continuous improvement 🚀</strong>
+</p>
 
 ---
+
