@@ -1,38 +1,32 @@
-# Hi, I’m Rauf 👋  
-IT Support Specialist (2 yrs) leveling up to become a **Cloud Security & Infrastructure Specialist**.
+# 🚀 Project 365
+
+> **Professional documentation and operational projects related to Microsoft 365 cloud administration.**
 
 ---
 
-## 🔄 What I’m Doing Now
-- 🚀 Launching my personal GitHub Pages site [`<you>.github.io`](https://<you>.github.io) with sections for Progress, Labs, Certifications, and Links  
-- 🛠️ Building a hybrid lab (macOS host → Ubuntu VM → Pop !_OS mini‑PC) to test Microsoft 365, Defender, and Sentinel  
+## 🎯 Focus Areas
 
-
-
-## 🌱 What I’m Learning Next
-- MITRE ATT&CK‑based threat hunting  
-- Automated remediation with Python & Microsoft Graph API  
-- Infrastructure‑as‑Code patterns for secure Azure deployments  
+- 📱 Device Enrollment and Endpoint Management (Microsoft Intune, Entra ID)
+- 🌐 Remote Access and VPN Infrastructure
+- 🛡️ Compliance, Configuration, and Device Security Policies
+- 📚 Continuous Professional Development aligned with MD-102 certification
 
 ---
 
-## 💬 Ask Me About
-- Transitioning from IT support to security engineering  
-- Building reusable labs & SOP templates  
-- Automating Sentinel deployments with CI/CD  
+## 🗂️ Project Structure
+
+| Folder | Description |
+|:---|:---|
+| **01-Endpoint-Enrollment-SOP** | 📋 Standard operating procedures for onboarding devices. |
+| **02-Intune-Policy-Deployment** | 🛠️ Policy management and configuration deployment workflows. |
+| **03-Network-Connectivity** | 🌍 VPN and RDP remote management setups. |
+| **04-MD-102-Study-Notes** | 🎓 Key technical concepts for Microsoft certification and professional growth. |
 
 ---
 
-## 🏆 Certifications & Milestones
-- **AWS Certified Solutions Architect** – AWS  
-- **AWS Certified Cloud Practitioner** – AWS  
-- **Microsoft 365 Certified: Fundamentals (MS‑900)** – Microsoft  
-- **SC‑200: Microsoft Security Operations Analyst** – *scheduled after Phase 3*  
+## 🛡 About This Project
+
+Project 365 reflects ongoing real-world work in Microsoft 365 ecosystems, documenting both operational practices and professional development activities.  
+Committed to operational excellence and continuous improvement. 🚀
 
 ---
-
-## 📫 Connect
-[Website](https://<you>.github.io) • [LinkedIn](https://www.linkedin.com/in/raufbabajanov/) • <rauf.babajanov@icloud.com>
-
-> *Evolving from IT support to cloud security—one lab at a time.*
-
