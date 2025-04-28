@@ -7,19 +7,7 @@ IT Support Specialist (2 yrs) leveling up to become a **Cloud Security�
 - 🚀 Launching my personal GitHub Pages site [`<you>.github.io`](https://<you>.github.io) with sections for Progress, Labs, Certifications, and Links  
 - 🛠️ Building a hybrid lab (macOS host → Ubuntu VM → Pop !_OS mini‑PC) to test Microsoft 365, Defender, and Sentinel  
 
----
 
-## 🛣️ Professional Growth Roadmap
-
-| Phase | Duration | Focus | Key Deliverables |
-|:----:|:--------:|-------|------------------|
-| **0** | 1 wk  | Portfolio & Lab Environment | Site live (`<you>.github.io`) · “Lab Setup” SOP + blog post |
-| **1** | 2 wks | Linux & Networking Foundations | Hardened Ubuntu · Syslog → SIEM · Packet‑analysis write‑up |
-| **2** | 2 wks | Microsoft 365 & Defender Security | Defender policies · Phishing simulation · Sentinel connector SOP |
-| **3** | 3 wks | Azure Sentinel SIEM **+ SC‑200** | Workspace · 10 KQL hunts · Incident runbook · SC‑200 exam & recap blog |
-| **4** | 2 wks | Automation & IaC | Python/Graph scripts · Terraform modules · CI/CD pipeline · “Sentinel Automator” repo |
-
----
 
 ## 🌱 What I’m Learning Next
 - MITRE ATT&CK‑based threat hunting  
