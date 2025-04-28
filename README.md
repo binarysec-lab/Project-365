@@ -2,6 +2,8 @@
 
 > **Professional documentation and operational projects related to Microsoft 365 cloud administration.**
 
+[![Microsoft 365 Admin](https://img.shields.io/badge/Focus-Microsoft%20365-blue)](https://www.microsoft.com/microsoft-365)
+
 ---
 
 ## 🎯 Focus Areas
